@@ -9,7 +9,7 @@ Group activity to familiarize with git
 3. `git diff` - show the diff between staging and local repo
 4. `git add <filename>` 
 5. `git reset <filename>`
-6. `git commit -m "<descriptive message>"`
+6. `git commit -m "<descriptive message>"` - commit from staging to local repo
 7. `git log`
 8. `git branch <branch name>`
 9. `git checkout <branch name>`
