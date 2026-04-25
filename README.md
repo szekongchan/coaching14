@@ -11,7 +11,7 @@ Group activity to familiarize with git
 5. `git reset <filename>`
 6. `git commit -m "<descriptive message>"` - commit from staging to local repo
 7. `git log` - display historical logs of staging
-8. `git branch <branch name>`
+8. `git branch <branch name>` create new branch 
 9. `git checkout <branch name>`
 10. `git merge <branch name>`
 11. `git branch -d <branch name>`
