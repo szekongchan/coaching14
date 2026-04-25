@@ -10,7 +10,7 @@ Group activity to familiarize with git
 4. `git add <filename>` 
 5. `git reset <filename>`
 6. `git commit -m "<descriptive message>"` - commit from staging to local repo
-7. `git log` - check history logs cause some conflict
+7. `git log` - display historical logs of staging
 8. `git branch <branch name>`
 9. `git checkout <branch name>`
 10. `git merge <branch name>`
