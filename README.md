@@ -10,7 +10,7 @@ Group activity to familiarize with git
 4. `git add <filename>` 
 5. `git reset <filename>`
 6. `git commit -m "<descriptive message>"` - commit from staging to local repo
-7. `git log`
+7. `git log` - check history logs
 8. `git branch <branch name>`
 9. `git checkout <branch name>`
 10. `git merge <branch name>`
